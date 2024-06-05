@@ -20,12 +20,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 #### :pencil2: Studying
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-
-   <br/>
-   <br/>
  
 #### :pencil2: Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunmingi&show_icons=true&theme=radical)
 <br/>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunmingi&layout=compact)
 </div>
