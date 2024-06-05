@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
+#### :pencil2: Studying
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
    <br/>
@@ -27,7 +27,5 @@
 #### :pencil2: Study log
  
 <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunmingi&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
 </div>
