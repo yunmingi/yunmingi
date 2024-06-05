@@ -24,8 +24,8 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
- 
+#### :pencil2: Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunmingi&show_icons=true&theme=radical)
 <br/>
 
 </div>
