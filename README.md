@@ -1,4 +1,4 @@
-####  :clipboard: Welcome
+####  :sparkles: Welcome
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=ccccff&height=150&section=header&text=YunMingi&fontColor=fffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
  <br/>
@@ -16,10 +16,10 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-#### :pencil2: Tool
+#### :pushpin: Tool
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
-#### :pencil2: Studying
+#### :book: Studying
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </br>
