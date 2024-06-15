@@ -3,7 +3,14 @@
 
  <br/>
  <br/>
-  
+
+#### :pencil2: blog
+<div>
+ <a href="https://aiccstdy.tistory.com/">
+  <img src="https://img.shields.io/badge/tistory-ff5a4a?style=for-the-badge&logo=tistory&logoColor=white">
+ </a>
+</div>
+
 ####  :clipboard: Teck Stack
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -29,12 +36,6 @@
 <br/>
 </div>
 
-#### :pencil2: blog
-<div>
- <a href="https://aiccstdy.tistory.com/">
-  <img src="https://img.shields.io/badge/tistory-ff5a4a?style=for-the-badge&logo=tistory&logoColor=white">
- </a>
-</div>
 
 
 
