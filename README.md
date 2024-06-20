@@ -6,7 +6,7 @@
 
 #### :pencil2: blog
 <div>
- <a href="https://aiccstdy.tistory.com/">
+ <a href="https://aiccstudy.tistory.com/">
   <img src="https://img.shields.io/badge/tistory-ff5a4a?style=for-the-badge&logo=tistory&logoColor=white">
  </a>
 </div>
