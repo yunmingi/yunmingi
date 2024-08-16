@@ -1,5 +1,5 @@
 ####  :sparkles: Welcome
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=YunMingi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=YunMingi&fontSize=85)
  <br/>
  <br/>
 
